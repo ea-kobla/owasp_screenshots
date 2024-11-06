@@ -46,7 +46,7 @@ OWASP_2021_A03	https://owasp.org/Top10/A03_2021-Injection/
 
 ----------------------------------------------------------
 
-HIGH VUL02
+HIGH VUL02 - v2.PNG
 URL: https://demo.testfire.net/sendFeedback
 Risk: Meduim
 CWE ID: 352
